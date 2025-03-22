@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chatbot for personal Use**
 
-- 🌱 I’m currently learning **NLP and Deep Learning Frameworks**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Machine Learning**
 
